@@ -285,8 +285,14 @@
     grid-row: 2 / 4;
   }
 
+  .gallery__image_type_tape {
+    grid-column: 1;
+    grid-row: 3 / 5;
+  }
+
   .gallery__image_type_street {
-    grid-column: 1 / -1;
+    grid-column: 2 / 4;
+    grid-row: 4;
   }
 }
 
