@@ -17,6 +17,7 @@
   --decorated-text-color: #353430;
   --section-title-color: #353430;
   --button-color: #353430;
+  --decor-color: #353430;
 }
 
 :root.theme-light .header__rec {
@@ -33,6 +34,7 @@
     --decorated-text-color: #353430;
     --section-title-color: #353430;
     --button-color: #353430;
+    --decor-color: #353430;
   }
 
   .header__rec {
